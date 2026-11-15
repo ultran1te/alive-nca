@@ -1,0 +1,103 @@
+{
+ "version": 1,
+ "text": {
+  "width": 87,
+  "height": 31,
+  "stroke": 4.4
+ },
+ "marks": [
+  {
+   "width": 36,
+   "height": 34,
+   "link": "https://github.com/ultran1te/alive-nca",
+   "label": "github.com/ultran1te/alive-nca"
+  }
+ ],
+ "pieces": [
+  {
+   "name": "t0",
+   "cells": "h-c124f444",
+   "group": "text",
+   "x": -5,
+   "y": -5,
+   "H": 41,
+   "W": 30,
+   "seed": [
+    17,
+    13
+   ],
+   "solid": 301
+  },
+  {
+   "name": "t1",
+   "cells": "e-e2af48bb",
+   "group": "text",
+   "x": 17,
+   "y": 3,
+   "H": 33,
+   "W": 31,
+   "seed": [
+    16,
+    15
+   ],
+   "solid": 291
+  },
+  {
+   "name": "t2",
+   "cells": "l-69b79eef",
+   "group": "text",
+   "x": 40,
+   "y": -4,
+   "H": 40,
+   "W": 19,
+   "seed": [
+    20,
+    9
+   ],
+   "solid": 155
+  },
+  {
+   "name": "t3",
+   "cells": "l-69b79eef",
+   "group": "text",
+   "x": 50,
+   "y": -4,
+   "H": 40,
+   "W": 19,
+   "seed": [
+    20,
+    9
+   ],
+   "solid": 155
+  },
+  {
+   "name": "t4",
+   "cells": "o-07164be5",
+   "group": "text",
+   "x": 60,
+   "y": 3,
+   "H": 33,
+   "W": 32,
+   "seed": [
+    16,
+    22
+   ],
+   "solid": 277
+  },
+  {
+   "name": "m5",
+   "cells": "mark0-99aebff9",
+   "group": "mark",
+   "x": -5,
+   "y": -5,
+   "H": 44,
+   "W": 46,
+   "seed": [
+    22,
+    23
+   ],
+   "solid": 760,
+   "mark": 0
+  }
+ ]
+}

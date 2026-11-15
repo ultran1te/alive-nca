@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "alive-nca"
+version = "1.0.0"
+description = "Grow text and logos out of living cells that heal when you cut them: neural cellular automata trained in numpy, run in the browser."
+readme = "README.md"
+license = { text = "MIT" }
+authors = [{ name = "Max Walker" }]
+requires-python = ">=3.9"
+dependencies = ["numpy>=1.24", "pillow>=10.1"]
+
+[project.urls]
+Homepage = "https://github.com/ultran1te/alive-nca"
+Example = "https://mowalker.ai"
+
+[project.scripts]
+alive = "alive.__main__:main"
+
+[tool.setuptools]
+packages = ["alive"]
+
+[tool.setuptools.package-data]
+alive = ["web/*"]

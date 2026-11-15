@@ -1,0 +1,17 @@
+{
+  "text": "hello",
+  "title": "",
+  "font": null,
+  "size": 20,
+  "spacing": 1.0,
+  "weight": null,
+  "color": "#ff2a12",
+  "paper": "#f4f5f6",
+  "marks": [
+    {
+      "image": "marks/heart.png",
+      "link": "https://github.com/ultran1te/alive-nca",
+      "size": 36
+    }
+  ]
+}
